@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Crimson</string>
+    <string name="circle">Circle</string>
+    <string name="line">Line</string>
+    <string name="pencil">Pencil</string>
+    <string name="redo">redo</string>
+    <string name="rectangle">rectangle</string>
+    <string name="spline">spline</string>
+    <string name="settings_bg_color_confirm">OK</string>
+    <string name="settings_default_color_confirm">WOW</string>
+    <string name="settings_bg_color_dialog">created</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">cancel</string>
+    <string name="color">COLOR</string>
+</resources>
